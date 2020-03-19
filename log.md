@@ -8,3 +8,11 @@
 
 **Link to work:** [This Log](https://github.com/jeveretts/100-days-of-code/blob/master/log.md)
 
+
+### Day 2: March 18, 2020
+
+**Today's Progress**: Completed first hour of SQL Tutorial-Full Database Course for Beginners, edited progress log. 
+
+**Thoughts:** I will install mysql, as explained in the video, tomorrow. I am confused about which text editor to use. POPSQL is recommended, but will I use that for other tutorials? There are so many choices it's hard to know which will be the best. I guess I will need to try them to find the one I like best.
+
+**Link to work:** [This Log](https://github.com/jeveretts/100-days-of-code/blob/master/log.md)
